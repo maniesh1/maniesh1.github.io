@@ -3,7 +3,7 @@
 ________________________________________________________________________________________________________________________________________________________________________________
 - - - - - - - - - - - - - - - - - - - -  - - - - 
 ### **_Interests_**
-          ::Travelling, Badminton, Self-Improvement Novels, Old Music
+      ::Travelling, Badminton, Self-Improvement Novels, Old Music
 
 
 ### **_Education_**
@@ -29,7 +29,7 @@ JAVA, System Commands, Advance Application Development
     - System will track progress over time and decide which cards need to be reviewed
     
 ### **_Beliefs and Ethics_**
-    I strongly believe in humanity, hard work and the progress of all as a team and 
-    wanna be the change that i wish to see!
+    I strongly believe in humanity, hard work and the progress of
+    all as a team and wanna be the change that i wish to see!
     
 
