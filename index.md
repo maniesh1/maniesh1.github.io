@@ -3,7 +3,7 @@
 ________________________________________________________________________________________________________________________________________________________________________________
 - - - - - - - - - - - - - - - - - - - -  - - - - 
 ### **_Interests_**
-      ::Travelling, Badminton, Self-Improvement Novels, Old Music
+  ::Travelling, Badminton, Self-Improvement Novels, Old Music
 
 
 ### **_Education_**
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 - Maths Olympiad(Zonal Rank-11 Jharkhand)
 
 ### **_Skills_**
-Python, HTML, CSS, SQL, Flask Framework, Psycopg2, Jinja2, numpy, PostgreSQL, matplotlib
+       Python, HTML, CSS, SQL, Flask Framework, Psycopg2, Jinja2, numpy, PostgreSQL, matplotlib
 
 ### **_Learning_**
 JAVA, System Commands, Advance Application Development
@@ -31,5 +31,7 @@ JAVA, System Commands, Advance Application Development
     
 ### **_Beliefs and Ethics_**
 I strongly believe in humanity, hard work and the progress of all as a team and wanna be the change that i wish to see!
+
+**_Contact_** ::  [email](mailto:21f1004259@student.onlinedegree.iitm.ac.in)
     
 
