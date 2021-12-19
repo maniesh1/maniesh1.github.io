@@ -1,12 +1,12 @@
 # MANISH KUMAR
 ### My Portfolio
-___________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________
 - - - - - - - - - - - - - - - - - - - -  - - - - 
 ### **_Interests_**
           ::Travelling, Badminton, Self-Improvement Novels, Old Music
 
-### **_Education_**
 
+### **_Education_**
 - IIT Madras'23(Data Science)
 - SP Jain College, Sasaram'22(BSc Maths)
 - Delhi Public School, Ranchi'19
@@ -29,6 +29,7 @@ JAVA, System Commands, Advance Application Development
     - System will track progress over time and decide which cards need to be reviewed
     
 ### **_Beliefs and Ethics_**
-    I strongly believe in humanity, hard work and the progress of all as a team and wanna be the change that i wish to see!
+    I strongly believe in humanity, hard work and the progress of all as a team and 
+    wanna be the change that i wish to see!
     
 
