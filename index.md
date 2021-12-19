@@ -27,9 +27,9 @@ JAVA, System Commands, Advance Application Development
     - User can have multiple decks, One can perform CRUD operations on the deck
     - System automatically presents one card at a time, and user needs to select a choice based on how well they know the answer
     - System will track progress over time and decide which cards need to be reviewed
+    - Link for the web app it has been hosted using Replit:    [FlashCard App](https://flashcardproject.manishkumar86.repl.co/login)
     
 ### **_Beliefs and Ethics_**
-    I strongly believe in humanity, hard work and the progress of
-    all as a team and wanna be the change that i wish to see!
+I strongly believe in humanity, hard work and the progress of all as a team and wanna be the change that i wish to see!
     
 
