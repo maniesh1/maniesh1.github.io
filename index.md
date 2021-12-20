@@ -7,6 +7,7 @@ ________________________________________________________________________________
 
 
 ### **_Education_**
+            ![img](https://www.google.com/search?q=Winter+Season&oi=ddle&ct=174788798&hl=en&source=doodle-ntp)
 - IIT Madras'23(Data Science)
 - SP Jain College, Sasaram'22(BSc Maths)
 - Delhi Public School, Ranchi'19
