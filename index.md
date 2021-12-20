@@ -21,7 +21,7 @@ ________________________________________________________________________________
 JAVA, System Commands, Advance Application Development
 
 ### **_Projects_**
- - Basic project using CSS and Jinja to obtaining and manipulating the students details through database in backend
+ - Basic project using CSS and Jinja2 to obtaining and manipulating the students details through database in backend
  - FlashCard 
     - Used for memory training
     - User can have multiple decks, One can perform CRUD operations on the deck
