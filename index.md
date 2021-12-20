@@ -1,5 +1,6 @@
 # MANISH KUMAR
 ### My Portfolio
+![img](/images/img2.jpg)
 ________________________________________________________________________________________________________________________________________________________________________________
 - - - - - - - - - - - - - - - - - - - -  - - - - 
 ### **_Interests_**
@@ -7,12 +8,13 @@ ________________________________________________________________________________
 
 
 ### **_Education_**
-![img](https://www.google.com/search?q=Winter+Season&oi=ddle&ct=174788798&hl=en&source=doodle-ntp)
+![img](/images/img1.jpg)
 - IIT Madras'23(Data Science)
 - SP Jain College, Sasaram'22(BSc Maths)
 - Delhi Public School, Ranchi'19
 
 ### **_Achievement_**
+![img](/images/img3.jpg)
 - Maths Olympiad(Zonal Rank-11 Jharkhand)
 
 ### **_Skills_**
