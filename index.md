@@ -1,7 +1,7 @@
 # MANISH KUMAR
 ### My Portfolio
 ![img](/images/img2.jpg)
-*************************************************
+
 - - - - - - - - - - - - - - - - - - - -  - - - - 
 ### **_Interests_**
   ::Travelling, Badminton, Self-Improvement Novels, Old Music
@@ -18,7 +18,7 @@
 - Maths Olympiad(Zonal Rank-11 Jharkhand)
 
 ### **_Skills_**
-       Python, HTML, CSS, SQL, Flask Framework, Psycopg2, Jinja2, numpy, PostgreSQL, matplotlib
+       Python, HTML, CSS, SQL, Flask Framework, Psycopg2, Jinja2, numpy, PostgreSQL, matplotlib, JS
 
 ### **_Learning_**
 JAVA, System Commands, Advance Application Development
