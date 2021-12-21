@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# _Portfolio_
 
-You can use the [editor on GitHub](https://github.com/maniesh1/maniesh1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#### _This is a site made by using basic markdown syntax_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### _Manish Kumar_
 
-### Markdown
+## Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_This site is a home page for my portfolio. It will show my previous education history, schools attended, my interests and hobbies and have links to my Github pag and the Email._
 
-```markdown
-Syntax highlighted code block
+## Folder Structure
 
-# Header 1
-## Header 2
-### Header 3
+- `images` contains the images that has been rendered in the portfolio
+- `CNAME` for cudtom domain (maniesh.me)
+- `LICENSE` GNU General Public License v3.0
+- `README.md` basic initial informations
+- `config.yml` for custom theme
+- `index.md` source markdown file for portfolio
 
-- Bulleted
-- List
+## Some basic info 
 
-1. Numbered
-2. List
+* _the index.md is the source code for the portfolio_
+* _this is the markdown and static file_
+* _it can be run by through the link http://maniesh1.github.io_
+* _nsmecheap has been used as maniesh.me so it'll also accessed br http://maniesh.me_
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Contact Details
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+_[email](21f1004259@student.onlinedegree.iitm.ac.in)_
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maniesh1/maniesh1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### License
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_This site is licensed under the GNU v3.0 license_
