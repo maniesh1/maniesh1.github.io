@@ -33,8 +33,8 @@ JAVA, System Commands, Advance Application Development
     - Link for the web app it has been hosted using Replit:    [FlashCard App](https://flashcardproject.manishkumar86.repl.co/login)
     
 ### **_Beliefs and Ethics_**
-I strongly believe in humanity, hard work and the progress of all as a team and wanna be the change that i wish to see!
+I strongly believe in humanity, hard work and the progress of all as a team , kinda introvert but very open to like minded people, very much eager and intrested to do something to society in future i belongs to!
 
-**_Contact_** ::  [email](mailto:21f1004259@student.onlinedegree.iitm.ac.in)
-    
+**_Contact_** ::         [email](mailto:21f1004259@student.onlinedegree.iitm.ac.in)                   [github](https://github.com/maniesh1)    
+
 
