@@ -1,4 +1,4 @@
-# MANISH KUMAR
+# MANISH KUMA
 ### My Portfolio
 ![img](/images/img2.jpg)
 
