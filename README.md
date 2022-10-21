@@ -21,8 +21,8 @@ _This site is a home page for my portfolio. It will show my previous education h
 
 * _the index.md is the source code for the portfolio_
 * _this is the markdown and static file_
-* _it can be run by clicking on the link http://maniesh1.github.io_
-* _namecheap has been used as maniesh.me so it'll also accessed from http://maniesh.me_
+* _it can be run by clicking on the link https://maniesh1.github.io_
+* _namecheap has been used as maniesh.me so it'll also accessed from https://maniesh.me_
 
 
 ## Contact Details
