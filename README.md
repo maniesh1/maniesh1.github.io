@@ -1,12 +1,8 @@
 # _Portfolio_
 
-#### _This is a site made by using basic markdown syntax_
+#### _This is my portfolio site made by using HTML, CSS and Javascript
 
 #### _Manish Kumar_
-
-## Description
-
-_This site is a home page for my portfolio. It will show my previous education history, schools attended, my interests and hobbies and have links to my Github pag and the Email._
 
 ## Folder Structure
 
@@ -27,7 +23,7 @@ _This site is a home page for my portfolio. It will show my previous education h
 
 ## Contact Details
 
-_[email](21f1004259@student.onlinedegree.iitm.ac.in)_
+_[email](21f1004259@ds.study.iitm.ac.in)_
 
 
 ### License
